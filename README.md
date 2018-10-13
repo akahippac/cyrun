@@ -1,4 +1,6 @@
 # cyrun
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fakahippac%2Fcyrun.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fakahippac%2Fcyrun?ref=badge_shield)
+
 For the Electra iOS 11 Jailbreaks.
 
 cyrun is comprised of an executable and bash script. It will
@@ -71,3 +73,7 @@ Unfortunately, some things still do not work correctly, possibly (most likely) d
 	@import net.limneos.classdumpdyld;
 	// the above succeeds without error but trying to use any of the functions it imports results in errors such as
 	// throw #"-[NSBundle isKindOfClass:]: unrecognized selector sent to instance 0x10110c1a0"
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fakahippac%2Fcyrun.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fakahippac%2Fcyrun?ref=badge_large)
